@@ -33,6 +33,6 @@ runs:
     - name: Run goodbye.sh
       run: |
         ls
-        ./goodbye.sh
+        goodbye.sh
       shell: bash
   
